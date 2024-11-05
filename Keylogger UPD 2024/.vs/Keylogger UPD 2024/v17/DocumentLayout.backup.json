@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Codes\\Keylogger Upd\\Keylogger UPD 2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12A1AB2B-B03B-4C53-9E95-DB094EEF1A84}|Keylogger UPD 2024\\Keylogger UPD 2024.vcxproj|E:\\Codes\\Keylogger Upd\\Keylogger UPD 2024\\Keylogger UPD 2024\\Keylogger UPD 2024.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12A1AB2B-B03B-4C53-9E95-DB094EEF1A84}|Keylogger UPD 2024\\Keylogger UPD 2024.vcxproj|solutionrelative:Keylogger UPD 2024\\Keylogger UPD 2024.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Keylogger UPD 2024.cpp",
+              "DocumentMoniker": "E:\\Codes\\Keylogger Upd\\Keylogger UPD 2024\\Keylogger UPD 2024\\Keylogger UPD 2024.cpp",
+              "RelativeDocumentMoniker": "Keylogger UPD 2024\\Keylogger UPD 2024.cpp",
+              "ToolTip": "E:\\Codes\\Keylogger Upd\\Keylogger UPD 2024\\Keylogger UPD 2024\\Keylogger UPD 2024.cpp",
+              "RelativeToolTip": "Keylogger UPD 2024\\Keylogger UPD 2024.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T06:20:45.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
